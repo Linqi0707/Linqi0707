@@ -1,2 +1,3 @@
-# profile
-个人主页
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Banner"/>
+</div>
